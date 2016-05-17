@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My message</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="Confirmation">Confirmation</string>
+    <string name="Important">Important</string>
+    <string name="Confirm">Confirm</string>
+    <string name="ExitMessage">Do you want to exit the application?</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Welcome">Welcome</string>
+    <string name="MessageExitProgram">Make out the program</string>
+</resources>

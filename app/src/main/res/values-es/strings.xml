@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera app</string>
+    <string name="edit_message">Introducir un mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_display_message">Mi mensaje</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="Confirmation">Confirmacion</string>
+    <string name="Important">Importante</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="ExitMessage">¿Desea salir de la aplicacion?</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="MessageExitProgram">Haz salido del programa</string>
+    <string name="Welcome">Bienvenido</string>
+</resources>
